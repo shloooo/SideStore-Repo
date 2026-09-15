@@ -7,11 +7,11 @@
   "apps": [
     {
       "name": "Spoti.pw",
-      "bundleIdentifier": "com.vojta.spotifyglass",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "skopevoj",
       "subtitle": "Spot.pw",
       "version": "0.17.0",
-      "versionDate": "2026-09-03T00:00:00Z",
+      "versionDate": "2026-09-13T00:00:00Z",
       "versionDescription": "Spoti.pw is a nice liquid glass mod for Spotify!",
       "downloadURL": "https://files.catbox.moe/6mn502.ipa",
       "localizedDescription": "Spoti.pw is a nice liquid glass mod for Spotify!",
@@ -33,7 +33,7 @@
       "versions": [
         {
           "version": "0.17.0",
-          "date": "2026-09-03T00:00:00Z",
+          "date": "2026-09-13T00:00:00Z",
           "downloadURL": "https://files.catbox.moe/6mn502.ipa",
           "localizedDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
           "size": 124852574
