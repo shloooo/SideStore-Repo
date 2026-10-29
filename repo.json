@@ -11,7 +11,7 @@
       "developerName": "skopevoj",
       "subtitle": "Spot.pw",
       "version": "9.1.78",
-      "versionDate": "2026-09-13T00:00:00Z",
+      "versionDate": "2026-10-29T00:00:00Z",
       "versionDescription": "Spoti.pw version: 0.17.0 on Spotify 9.1.78",
       "downloadURL": "https://files.catbox.moe/x89ifi.ipa",
       "localizedDescription": "Spoti.pw is a nice liquid glass mod for Spotify!",
@@ -32,18 +32,18 @@
       ],
       "versions": [
         {
-          "version": "0.21.1",
-          "date": "2026-09-23T00:00:00Z",
+          "version": "9.1.78",
+          "date": "2026-10-29T00:00:00Z",
           "downloadURL": "https://files.catbox.moe/x89ifi.ipa",
           "localizedDescription": "Spoti.pw version: 0.21.1 on Spotify 9.1.78",
           "size": 132635296
         },
         {
-          "version": "9.1.78",
-          "date": "2026-09-13T00:00:00Z",
-          "downloadURL": "https://files.catbox.moe/6mn502.ipa",
-          "localizedDescription": "Spoti.pw version: 0.17.0 on Spotify 9.1.78",
-          "size": 124852574
+          "version": "0.21.1",
+          "date": "2026-09-23T00:00:00Z",
+          "downloadURL": "https://files.catbox.moe/x89ifi.ipa",
+          "localizedDescription": "Spoti.pw version: 0.21.1 on Spotify 9.1.78",
+          "size": 132635296
         }
       ]
     }
